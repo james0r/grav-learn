@@ -353,7 +353,7 @@ It all works thanks to the Login Plugin.
 
 ## Require users to login prior to access a part of the site
 
-If you don’t have it already, install it through the Admin Panel or using the GPM command line utility.
+If you don’t have the Login Plugin installed already, install it through the Admin Panel or using the GPM command line utility.
 
 Next, open a page in Admin, switch to expert mode and in the FrontMatter section add
 
