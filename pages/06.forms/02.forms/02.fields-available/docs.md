@@ -665,6 +665,7 @@ Example:
 header.choose_a_number_in_range:
   type: range
   label: Choose a number
+  default: 5
   validate:
     min: 1
     max: 10
